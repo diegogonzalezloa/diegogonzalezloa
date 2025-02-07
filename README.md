@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Diego González</h1>
 <h3 align="center">I'am a sound engineer who has a passion for the programming</h3>
 
-- 💬 Ask me about **MATLAB, LaTeX, HTML, CSS, JavaScript, Python**
+- 💬 Ask me about **MATLAB, LaTeX, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **diego.gonzalezloa@gmail.com**
 
