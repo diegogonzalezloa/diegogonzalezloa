@@ -47,6 +47,13 @@ I'm Diego. I'm a full-stack developer in training, and I'm from <strong>Medellí
             <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/my-website?style=flat&labelColor=343b41"/></td>
             <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/my-website?style=flat&labelColor=343b41"/></td>
         </tr>
+        <tr>
+            <td><a href="https://diegogonzalezloa.github.io/task-checker/"><b>task-checker</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
+        </tr>
     </tbody>
 </table>
 
