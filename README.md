@@ -7,6 +7,7 @@ I'm Diego. I'm a full-stack developer in training, and I'm from <strong>Medellí
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
     <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000" />
