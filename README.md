@@ -6,12 +6,13 @@ I'm Diego. I'm a full-stack developer in training, and I'm from <strong>Medellí
 <h3><img alt="gear gif" src="assets/gear.gif" width="15"/> Tech stack I code with</h3>
 
 <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React.js-45b8d8?logo=react&logoColor=white" />
+    <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
     <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000" />
-    <img alt="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+    <img alt="Cascading Style Sheets" src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" />
     <img alt="Hypertext Markup Language 5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
     <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" />
     <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0d6efd" />
@@ -35,11 +36,25 @@ I'm Diego. I'm a full-stack developer in training, and I'm from <strong>Medellí
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/diegogonzalezloa/React-and-Tailwind-Project"><b>React-and-Tailwind-Project</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
+            <td><a href="https://github.com/diegogonzalezloa/task-cli/"><b>task-cli</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/diegogonzalezloa/shoes-landing-page"><b>shoes-landing-page</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/diegogonzalezloa/task-checker"><b>task-checker</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
         </tr>
         <tr>
             <td><a href="https://github.com/diegogonzalezloa/my-website"><b>my-website</b></a></td>
@@ -49,25 +64,11 @@ I'm Diego. I'm a full-stack developer in training, and I'm from <strong>Medellí
             <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/my-website?style=flat&labelColor=343b41"/></td>
         </tr>
         <tr>
-            <td><a href="https://diegogonzalezloa.github.io/task-checker/"><b>task-checker</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/task-checker?style=flat&labelColor=343b41"/></td>
-        </tr>
-        <tr>
-            <td><a href="https://diegogonzalezloa.github.io/shoes-landing-page/"><b>shoes-landing-page</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/shoes-landing-page?style=flat&labelColor=343b41"/></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/diegogonzalezloa/task-cli/"><b>task-cli</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/task-cli?style=flat&labelColor=343b41"/></td>
+            <td><a href="https://github.com/diegogonzalezloa/React-and-Tailwind-Project"><b>React-and-Tailwind-Project</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Pull request" src="https://img.shields.io/github/issues-pr/diegogonzalezloa/React-and-Tailwind-Project?style=flat&labelColor=343b41"/></td>
         </tr>
     </tbody>
 </table>
